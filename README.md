@@ -25,8 +25,8 @@
 * O resultado do projeto consiste em um pipeline ETL funcional desenvolvido em Python e executado no Google Colab. O processo foi capaz de realizar a extração automatizada da malha municipal do IBGE, contendo os 645 municípios do Estado de São Paulo, além de efetuar a limpeza, padronização e integração de uma base simulada de saúde.
 * Como produto final, foi gerada uma base geoespacial integrada contendo atributos geográficos e tabulares em um único conjunto de dados, pronta para utilização em análises espaciais, aplicações GIS e ferramentas de Business Intelligence. O projeto evidencia conhecimentos relacionados à manipulação de dados tabulares, dados geoespaciais, integração entre fontes distintas e exportação de resultados em formatos amplamente utilizados no mercado de dados.
   - O notebook está disponível para download em, sendo reprodutível e possuindo todo o código utilizado: [Notebook colab ETL.ipynb](ETL_em_python.ipynb)
-  - O arquivo parquet gerado no notebook está disponível para download em: [Parquet do ETL](etl_saude_municipios_sp.parquet)
-  - O arquivo xlsx gerado no notebook está disponível para download em: [Planilha p/ Excel do ETL](etl_saude_municipios_sp.xlsx)
+  - O Arquivo GeoParquet contendo a base geoespacial integrada está disponível para download em: [Parquet do ETL](etl_saude_municipios_sp.parquet)
+  - A versão tabular para inspeção e validação dos dados está disponível para download em: [Planilha p/ Excel do ETL](etl_saude_municipios_sp.xlsx)
 ---
 
 ### **Agradeço pela atenção durante a leitura**
