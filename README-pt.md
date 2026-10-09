@@ -1,3 +1,5 @@
+[🇺🇸 English](README.md) | [🇧🇷 Português](README-pt.md)
+
 # ETL em Python: Google Colab
 ### Um Exemplo do uso de Python em um processo de integração de dados ETL no Google Colab
 ![capa](intro.jpg)
